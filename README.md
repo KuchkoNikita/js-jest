@@ -139,8 +139,8 @@ https://www.codewars.com/kata/546f922b54af40e1e90001da
 алфавите (“a” = 1, “b” = 2 и так далее). Все остальные символы игнорируются.
 Примеры:
 
-1. “The sunset sets at twelve o’clock.” -> “20 8 5 19 21 14 19 5 20 19 5 20 19 1 20 20
-   23 5 12 22 5 15 3 12 15 3 11”
+1. “The sunset sets at twelve o’clock.” -> 
+   “20 8 5 19 21 14 19 5 20 19 5 20 19 1 20 20 23 5 12 22 5 15 3 12 15 3 11”
 
 2. Algorithms and functional programming
 
