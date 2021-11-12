@@ -142,7 +142,7 @@ https://www.codewars.com/kata/546f922b54af40e1e90001da
 1. “The sunset sets at twelve o’clock.” -> 
    “20 8 5 19 21 14 19 5 20 19 5 20 19 1 20 20 23 5 12 22 5 15 3 12 15 3 11”
 
-2. Algorithms and functional programming
+3. Algorithms and functional programming
 
 3.1. Сведение и сортировка массива [очень просто]
 https://www.codewars.com/kata/57ee99a16c8df7b02d00045f
